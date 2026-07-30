@@ -1,4 +1,16 @@
 aid: prototypes
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/prototypes.png
 name: Prototypes
 description: Early models or preliminary versions of products built to test concepts, validate designs, and gather feedback before full-scale production or development. Effective use of this practice reduces bugs in production and supports a culture of quality-driven development.
 type: Index
