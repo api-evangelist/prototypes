@@ -1,4 +1,4 @@
-# Prototypes (prototypes)
+# Prototypes
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,25 +66,26 @@
 
 Early models or preliminary versions of products built to test concepts, validate designs, and gather feedback before full-scale production or development. Effective use of this practice reduces bugs in production and supports a culture of quality-driven development.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/prototypes/refs/heads/main/apis.yml)
+**Areas:** Design · Innovation · Product Development · Testing
 
-## Scope
+## Prototypes on APIs.io
 
-- **Type:** Index 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+Everything profiled for Prototypes is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/prototypes/](https://apis.io/providers/prototypes/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+## API Evangelist rating
 
- - Product Development, Design, Testing, Innovation
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-## Timestamps
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
-- **Created:** 2025-01-01 
-- **Modified:** 2026-04-28 
+## How this profile is made
 
-## Maintainers
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-**FN:** Kin Lane
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Prototypes: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-**Email:** kin@apievangelist.com
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/prototypes/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
